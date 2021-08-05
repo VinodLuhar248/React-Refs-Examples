@@ -1,8 +1,8 @@
-import React, { Component } from "react";
+import React, { Component } from 'react';
 
 export default function CallbackRefApiExample() {
   state = {
-    value: ""
+    value: ''
   };
 
   const handleClick = () => {
